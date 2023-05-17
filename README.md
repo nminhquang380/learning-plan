@@ -135,18 +135,18 @@
             - ~~Decision Tree.~~
         - ~~SQL + Database (2)~~
             - Database concepts.
-            - ~~DML.
-            - ~~DDL.
-            - ~~PL/SQL.
+            - ~~DML.~~
+            - ~~DDL.~~
+            - ~~PL/SQL.~~
         - Mathematics (3)
             - ~~Probability~~
             - ~~Statistics~~
             - Caculus
             - Algebra
         - Data Structure and Algorithms (4)
-            - ~~Data Structure.
-            - ~~Algorithms.
-            - ~~Big O.
+            - ~~Data Structure.~~
+            - ~~Algorithms.~~
+            - ~~Big O.~~
             - OOP.
     - Cracking the coding interview book + Exercise
         - ~~BigO.~~
@@ -154,9 +154,9 @@
     - Learning R Basic
         - Finish Course [Tools for Data Sciense](https://www.coursera.org/learn/open-source-tools-for-data-science/home)
             - ~~Week 1~~
-            - ~~Week 2
-            - ~~Week 3
-            - ~~Week 4
+            - ~~Week 2~~
+            - ~~Week 3~~
+            - ~~Week 4~~
             - Week 5
             - Week 6
             - Week 7
