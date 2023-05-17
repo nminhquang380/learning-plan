@@ -113,14 +113,17 @@
             - ~~Decision Trees~~
             - ~~Ensemble Learning~~
         - Practice competitive programs after learning DSA:
-            - Python Files, Exception Handling
+            - ~~Python Files, Exception Handling~~
             - Python OOP
             - Python Advanced Topics
             - Python Date Time
     - ~~Completing Database Course: **[Oracle SQL - A Complete Introduction](https://www.udemy.com/course/introduction-to-oracle-sql/)**~~
     - Huyen Chip Interview Book
         - ~~Part I~~
-        - Part II: Part 6-7-8
+        - Part II: 
+        - ~~Part 6~~
+        - ~~Part 7~~
+        - Part 8
     - ~~PyTorch Tutorial: [Learning PyTorch](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)~~
         - ~~60 Mins Blitz~~
     - Make flashcards
@@ -130,19 +133,20 @@
             - ~~Training models (Regression).~~
             - ~~SVM.~~
             - ~~Decision Tree.~~
-        - SQL + Database (2)
+        - ~~SQL + Database (2)~~
             - Database concepts.
-            - DML.
-            - DDL.
+            - ~~DML.
+            - ~~DDL.
+            - ~~PL/SQL.
         - Mathematics (3)
             - ~~Probability~~
             - ~~Statistics~~
             - Caculus
             - Algebra
         - Data Structure and Algorithms (4)
-            - Data Structure.
-            - Algorithms.
-            - Big O.
+            - ~~Data Structure.
+            - ~~Algorithms.
+            - ~~Big O.
             - OOP.
     - Cracking the coding interview book + Exercise
         - ~~BigO.~~
@@ -150,9 +154,9 @@
     - Learning R Basic
         - Finish Course [Tools for Data Sciense](https://www.coursera.org/learn/open-source-tools-for-data-science/home)
             - ~~Week 1~~
-            - Week 2
-            - Week 3
-            - Week 4
+            - ~~Week 2
+            - ~~Week 3
+            - ~~Week 4
             - Week 5
             - Week 6
             - Week 7
